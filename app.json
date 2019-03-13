@@ -1,0 +1,7 @@
+{
+  "name": "Indecision App",
+  "description": "Sample React App",
+  "repository": "https://github.com/ra89fi/indecision",
+  "keywords": ["react", "express", "node"],
+  "image": "heroku/nodejs"
+}
